@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=Vj4UhGcAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+> **Stability and Generalization of Graph Convolutional Neural Networks.** [[PDF](https://www.google.com)]
+> **Saurabh Verma**, Zhi-Li Zhang. 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019).
