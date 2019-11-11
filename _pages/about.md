@@ -17,7 +17,7 @@ Minneapolis, MN 55455
 
 **Contact**: pande103 [at] umn.edu
 
-##Research
+## Research
 
 My current research is focused on recommending relevant course materials to students, where I analyze students' historical data to extract useful information that can assist the future students improve their academic performance as well as help the educational insitution make better decisions to enhance the educational process. My previous research focused on Information Retrieval, where I studied language change over time and how to account for it in document similarity search.
 
