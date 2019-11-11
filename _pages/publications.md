@@ -17,8 +17,8 @@ author_profile: true
 > **Self Attentive models for Knowledge Tracing.**[[PDF](https://arxiv.org/abs/1907.06837)] <br/>
 > **Shalini Pandey** and George Karypis. In the 12th International Conference on Educational Data Mining, (EDM 2019).
 
-> **Structured Dictionary Learning for Energy Disaggregation.** <br/>
+> **Structured Dictionary Learning for Energy Disaggregation.**[[PDF](https://arxiv.org/abs/1907.06581)] <br/>
 > **Shalini Pandey**, George Karypis. In Proceedings of the Tenth International Conference on Future Energy Systems, ACM e-Energy, 2019.
 
-> **Comparison Analysis of Link Prediction Algorithms in Social Network.** <br/>
+> **Comparison Analysis of Link Prediction Algorithms in Social Network.**[[PDF](https://pdfs.semanticscholar.org/bb5e/9530cd210474a2b7ac5b263c8eea888a740e.pdf)] <br/>
 > Sahil Gupta, **Shalini Pandey**. In International Journal of Computer Applications, (IJCA 2016).
