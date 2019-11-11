@@ -18,8 +18,6 @@ Minneapolis, MN 55455
 
 ## Research
 
-
-Research
 My current research is focused on recommending personalized course contents to students, where I analyze students' activities  to understand their knowledge gaps and interests and provide recommendations accordingly. My previous research focused on energy disaggregation, to provide customers their appliance-level energy consumption pattern.
 
 ## Education
