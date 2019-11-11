@@ -1,4 +1,9 @@
-
+--
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 > **University of Minnesota Twin Cities**   <br/>
 > Teaching Assistant &nbsp; CSCI 4041, Introduction to Algorithms &nbsp;  <br/>
 > Teaching Assistant &nbsp; CSCI 4061, Introduction to Operating Systems <br/>
