@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-> **Collaborative Dynamic Embedding for Temporal Interaction Network.** <br/>
+> **Constraint Based User-Generated Content Recommendation.** <br/>
 > **Shalini Pandey**, Jaideep Srivastava. (Under Review).
 
 > **Learning Student Interest Trajectory for MOOC Thread Recommendation.** <br/>
