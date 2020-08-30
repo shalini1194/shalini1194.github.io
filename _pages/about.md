@@ -23,7 +23,7 @@ My current research is focused on recommending personalized course contents to s
 ## Education
 
 > **University of Minnesota Twin Cities** (GPA: 3.96/4.0)  <br/>
-> PhD in Computer Science  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2016 - 2020 <br/>
+> PhD in Computer Science  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2016 - 2021 <br/>
 > Advisors: George Karypis and Jaideep Srivastava <br/>
 
 > **Indian Institute of Technology Varanasi** (GPA: 8.62/10) <br/>
