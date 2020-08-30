@@ -5,11 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-> **Constraint Based User-Generated Content Recommendation.** <br/>
-> **Shalini Pandey**, Jaideep Srivastava. (Under Review).
+> **IACN: Influence-aware and Attention-based Co-evolutionary Network for Recommendation.** <br/>
+> **Shalini Pandey**, George Karypis and Jaideep Srivastava. (Under Review).
 
 > **Learning Student Interest Trajectory for MOOC Thread Recommendation.** <br/>
-> **Shalini Pandey**, Andrew Lan and Jaideep Srivastava. (Under Review).
+> **Shalini Pandey**, Andrew Lan, George Karypis and Jaideep Srivastava. (Under Review).
+
+> **RKT : Relation-Aware Self-Attention for Knowledge Tracing.** <br/>
+> **Shalini Pandey** and Jaideep Srivastava. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020).
 
 > **Predicting Dynamic Embedding of User and Item for Personalized recommendation.** <br/>
 > **Shalini Pandey**. In Women In Machine Learning Workshop (WIML 2019).
