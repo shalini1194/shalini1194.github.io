@@ -7,7 +7,7 @@ author_profile: true
 > **MOOCRep: A Unified Pre-trained Embedding of MOOC Entities** <br/>
 > **Shalini Pandey** and Jaideep Srivastava. (Under Review).
 
-> **IACN: Influence-aware and Attention-based Co-evolutionary Network for Recommendation. [[PDF]https://arxiv.org/abs/2103.02866]** <br/>
+> **IACN: Influence-aware and Attention-based Co-evolutionary Network for Recommendation.** [[PDF]https://arxiv.org/abs/2103.02866] <br/>
 > **Shalini Pandey**, George Karypis and Jaideep Srivastava. In 25th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2021.
 
 > **Learning Student Interest Trajectory for MOOC Thread Recommendation.** [[PDF](https://ieeexplore.ieee.org/abstract/document/9346454)]<br/>
