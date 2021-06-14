@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD Candidate at University of Minnesota, Twin Cities (Fall 2016 - Present)  advised by Prof. George Karypis and Prof. Jaideep Srivastava.  My research interests are in deep learning, machine learning, text mining, recommender systems, learning analytics and educational data mining.
+Hi! I am a Research Scientist at Facebook, Menlo Park. Previously, I completed my PhD from University of Minnesota, Twin Cities advised by Prof. George Karypis and Prof. Jaideep Srivastava.  My research interests are in deep learning, machine learning, text mining, recommender systems, learning analytics and educational data mining.
 
 **Office**: Room 4-192 KHKH,
 200 Union St SE,
